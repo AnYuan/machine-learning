@@ -13,3 +13,6 @@ All about machine learning
 [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/)
 
 [Introduction to Neural Networks笔记](http://www.cs.toronto.edu/~rgrosse/csc321/notes.html)
+
+[TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow tutorials and code examples for beginners
+
