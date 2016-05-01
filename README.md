@@ -17,3 +17,13 @@ All about machine learning
 [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow tutorials and code examples for beginners
 
 [AIToolbox](https://github.com/KevinCoble/AIToolbox): A toolbox of AI modules written in Swift: Graphs/Trees, Support Vector Machines, Neural Networks, PCA, K-Means, Genetic Algorithms
+
+
+### Other Courses
+
+[Intro to Artificial Intelligence udacity](https://classroom.udacity.com/courses/cs271/)
+
+[Artificial Intelligence for Robotics udacity](https://classroom.udacity.com/courses/cs373/)
+
+[Artificial Intellegence UC Berkeley cs188 2014](https://www.youtube.com/watch?v=W1S-HSakPTM&list=PLNozK-HB4MXsVAN6cqkCAO09RChbIAk5i)
+
