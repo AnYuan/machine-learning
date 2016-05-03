@@ -20,6 +20,8 @@ All about machine learning
 
 [Baidu Reserach](https://github.com/baidu-research)
 
+[Swift AI](https://github.com/collinhundley/Swift-AI): Swift AI includes a set of common tools used for machine learning and artificial intelligence research. These tools are designed to be flexible, powerful and suitable for a wide range of applications.
+
 ### Other Courses
 
 [Intro to Artificial Intelligence udacity](https://classroom.udacity.com/courses/cs271/)
