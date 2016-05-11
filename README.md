@@ -30,3 +30,7 @@ All about machine learning
 
 [Artificial Intellegence UC Berkeley cs188 2014](https://www.youtube.com/watch?v=W1S-HSakPTM&list=PLNozK-HB4MXsVAN6cqkCAO09RChbIAk5i)
 
+### Books
+
+[neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
+
