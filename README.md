@@ -24,6 +24,8 @@ All about machine learning
 
 ### Other Courses
 
+[机器学习/深度学习/自然语言处理学习路线](http://www.cnblogs.com/cyruszhu/p/5496913.html)
+
 [Intro to Artificial Intelligence udacity](https://classroom.udacity.com/courses/cs271/)
 
 [Artificial Intelligence for Robotics udacity](https://classroom.udacity.com/courses/cs373/)
