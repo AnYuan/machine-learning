@@ -28,6 +28,8 @@ All about machine learning
 
 [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md): This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this list.
 
+[cs231n: Convolutional Neural Networks for Visual Recognition](http://http://pan.baidu.com/s/1pKsTivp#path=%252F%25E6%2588%2591%25E7%259A%2584%25E5%2588%2586%25E4%25BA%25AB%252F!New%252FCS231n%2520-%2520Convolutional%2520Neural%2520Networks%2520for%2520Visual%2520Recognition(Winter%25202016))
+
 [Intro to Artificial Intelligence udacity](https://classroom.udacity.com/courses/cs271/)
 
 [Artificial Intelligence for Robotics udacity](https://classroom.udacity.com/courses/cs373/)
