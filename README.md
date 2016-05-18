@@ -22,6 +22,8 @@ All about machine learning
 
 [Swift AI](https://github.com/collinhundley/Swift-AI): Swift AI includes a set of common tools used for machine learning and artificial intelligence research. These tools are designed to be flexible, powerful and suitable for a wide range of applications.
 
+[aima-python](https://github.com/aimacode/aima-python):Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
+
 ### Other Courses
 
 [机器学习/深度学习/自然语言处理学习路线](http://www.cnblogs.com/cyruszhu/p/5496913.html)
