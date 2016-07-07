@@ -30,6 +30,10 @@ All about machine learning
 
 ### Other Courses
 
+[How to Start Learning Deep Learning](http://ofir.io/How-to-Start-Learning-Deep-Learning/)
+
+[Fundamentals of TensorFlow](https://www.youtube.com/watch?v=EM6SU8QVSlY)
+
 [机器学习/深度学习/自然语言处理学习路线](http://www.cnblogs.com/cyruszhu/p/5496913.html)
 
 [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md): This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this list.
