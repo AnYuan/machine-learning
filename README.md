@@ -30,7 +30,16 @@ All about machine learning
 
 [aima-python](https://github.com/aimacode/aima-python):Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
 
+[Bring Magic To Your Mobile App With Deep Learning](https://medium.com/@avihay/bring-magic-to-your-mobile-app-with-deep-learning-184d9062d7fc#.s6dbg1poc)
+
+[Machine Learning for Dummies: Part 1
+](https://chatbotslife.com/machine-learning-for-dummies-part-1-dbaca076ec07#.b1plzj31s)
+
 ### Other Courses
+
+[MIT self driving cars](http://selfdrivingcars.mit.edu/deeptraffic/)
+
+[CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 
 [How to Start Learning Deep Learning](http://ofir.io/How-to-Start-Learning-Deep-Learning/)
 
