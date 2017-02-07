@@ -59,6 +59,7 @@ All about machine learning
 
 [Introduction to Machine Learning with scikit-learn](http://machinelearningmastery.com/introduction-machine-learning-scikit-learn/)
 
+[机器学习课程合集](http://weibo.com/ttarticle/p/show?id=2309351000224063530780342226&u=2391537795&m=4063539524483927&cu=2391537795)
 ### Books
 
 [neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
