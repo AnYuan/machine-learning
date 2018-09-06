@@ -8,6 +8,8 @@ All about machine learning
 
 ### 资料
 
+[100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+
 [Paddle](https://github.com/baidu/Paddle)
 
 [awesome deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)
